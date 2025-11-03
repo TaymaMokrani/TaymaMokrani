@@ -1,6 +1,7 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://your-banner-link-here" alt="Tayma Mokrani Banner" width="100%" />
+  ![Banner](Bannière LinkedIn Moderne Simple Noir et Beige (1).png)
+
 </p>
 
 <h1 align="center">✨ Tayma Mokrani ✨</h1>
