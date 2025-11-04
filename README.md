@@ -4,11 +4,6 @@
 </p>
 
 
-<h1 align="center">✨ Tayma Mokrani ✨</h1>
-<h3 align="center">
-  Engineering minds & aesthetics through AI and design.
-</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&pause=1000&color=FFB7C5&center=true&vCenter=true&width=500&lines=Software+%26+Data+Engineering+Student;AI+%7C+Machine+Learning+%7C+Computer+Vision;Where+logic+meets+creativity" alt="Typing SVG" />
 </p>
