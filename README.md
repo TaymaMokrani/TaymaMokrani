@@ -1,7 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  ![Banner](Bannière LinkedIn Moderne Simple Noir et Beige (1).png)
-
+  <img src="[https://your-banner-link-here](https://github.com/TaymaMokrani/TaymaMokrani/blob/main/Banni%C3%A8re%20LinkedIn%20Moderne%20Simple%20Noir%20et%20Beige%20(1).png)" alt="Tayma Mokrani Banner" width="100%" />
 </p>
 
 <h1 align="center">✨ Tayma Mokrani ✨</h1>
