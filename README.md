@@ -45,8 +45,16 @@ I believe in merging **logic** with **emotion**, **data** with **aesthetics**, a
 
 ### 🌐 Connect With Me
 
-<p align="center">
-  <a href="mailto:tayma.mokrani@fsb.ucar.tn"><img src="https://img.shields.io/badge/Email-FFB7C5?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/tayma-mokrani-329826350"><img src="https://img.shields.io/badge/LinkedIn-FFB7C5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://taymamokrani.framer.website"><img src="https://img.shields.io/badge/Portfolio-FFB7C5?style=flat&logo=vercel&logoColor=white" /></a>
+<p style="display:flex;gap:10px;">
+  <a href="mailto:tayma.mokrani@fsb.ucar.tn" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-ff9bbf?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/tayma-mokrani-329826350" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-9b5de5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://taymamokrani.framer.website" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portfolio-ff9f1c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
+
+
