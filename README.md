@@ -3,13 +3,6 @@
   <img src="https://github.com/TaymaMokrani/TaymaMokrani/blob/main/Banni%C3%A8re%20LinkedIn%20Moderne%20Simple%20Noir%20et%20Beige%20(1).png?raw=true" alt="Tayma Mokrani Banner" width="100%" />
 </p>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&pause=1000&color=FFB7C5&center=true&vCenter=true&width=500&lines=Software+%26+Data+Engineering+Student;AI+%7C+Machine+Learning+%7C+Computer+Vision;Where+logic+meets+creativity" alt="Typing SVG" />
-</p>
-
----
-
 ### 🌸 About Me
 
 I’m **Tayma Mokrani**, a Software & Data Engineering student passionate about blending **Artificial Intelligence** and **Design** to create intelligent, human-centered systems.  
