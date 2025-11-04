@@ -14,13 +14,10 @@ I’m **Tayma Mokrani**, a Software & Data Engineering student passionate about 
 ---
 
 ### 🧠 Tech Palette
+|                                                                                                                                                                                                                                                              🤖 AI & Data                                                                                                                                                                                                                                                             |                                                                                                                                                                                                          🌐 Web Dev                                                                                                                                                                                                         |                                                                                                                                                                                                                                                  🎨 Design & Tools                                                                                                                                                                                                                                                  |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="32"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32"/> |
 
-| AI & Data | Web Dev | Design & Tools |
-|------------|----------|----------------|
-| TensorFlow · PyTorch · Scikit-learn · NLP · CV | React · Angular · Node.js · Spring Boot | Framer · Figma · Power BI · OpenAI API |
-| NumPy · Pandas · OpenCV · Matplotlib | HTML · CSS · JavaScript · TypeScript | Git · VS Code · Linux · Notion |
-
----
 
 ### 🌷 Featured Projects
 
@@ -46,25 +43,10 @@ I believe in merging **logic** with **emotion**, **data** with **aesthetics**, a
 
 ---
 
-### 🛠️ GitHub Vibes
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taymamokrani&show_icons=true&theme=rose_pine&hide_border=true" alt="Tayma's GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taymamokrani&theme=rose_pine&hide_border=true" alt="GitHub Streak" height="160"/>
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:tayma.mokrani@fsb.ucar.tn"><img src="https://img.shields.io/badge/Email-FFB7C5?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/tayma-mokrani-329826350"><img src="https://img.shields.io/badge/LinkedIn-FFB7C5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://taymamokrani.framer.website"><img src="https://img.shields.io/badge/Portfolio-FFB7C5?style=flat&logo=vercel&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5&height=100&section=footer"/>
 </p>
