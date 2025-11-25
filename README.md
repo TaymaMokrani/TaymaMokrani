@@ -3,68 +3,58 @@
   <img src="https://github.com/TaymaMokrani/TaymaMokrani/blob/main/Banni%C3%A8re%20LinkedIn%20Moderne%20Simple%20Noir%20et%20Beige%20(1).png?raw=true" alt="Tayma Mokrani Banner" width="100%" />
 </p>
 
-### 👋 About Me
+### 🌸 About Me
 
-I’m **Tayma Mokrani**, a Software and Data Engineering student with experience in **machine learning**,  
-**computer vision**, and **full-stack development**. I work on building intelligent systems, analyzing data,  
-and developing solutions that support decision-making and automation.
+I'm **Tayma Mokrani**, a Software & Data Engineering student with a strong focus on  
+**Artificial Intelligence**, **Machine Learning**, **Computer Vision**, and **Data Engineering**.
 
-Currently seeking a **final-year internship (PFE)** in **AI**, **ML**, or **data-driven software engineering**.
-
----
-
-### 🧠 Technical Skills
-
-| **AI & Machine Learning** | **Web Development** | **Tools & Platforms** |
-| :-----------------------: | :-----------------: | :-------------------: |
-| Python, TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV, YOLO, CNNs | Angular, React.js, Node.js, Express.js, Spring Boot | Git, Power BI, Jupyter, Anaconda, StarUML, Figma, Framer |
-| Data preprocessing, ETL pipelines, labeling, model training & evaluation | HTML, CSS, JavaScript, Tailwind, Bootstrap | Linux, VS Code, MySQL, MongoDB, OptimaDB |
+I enjoy analyzing how systems behave, building intelligent solutions, and turning raw data into  
+useful, meaningful outcomes. Currently, I’m seeking a **final-year internship (PFE)** where I can  
+contribute to impactful AI/ML projects and sharpen my engineering skills.
 
 ---
 
-### 🚀 Selected Projects
-
-#### 🔍 **Crowd Abnormality Detection**
-Developed CNN models and an ensemble majority-voting system to detect abnormal crowd behavior in surveillance videos.  
-**Tech:** Python · TensorFlow · OpenCV
-
-#### 🔐 **Smart Safe (IoT + YOLO)**
-ESP32-powered smart safe with motion detection, face capture, and real-time alerts.  
-**Tech:** ESP32 · Python · YOLOv5 · IoT
-
-#### 🕵️ **Bot Detection on Instagram**
-Classified Instagram profiles (real, fake, automated) using models trained on the InstaFake dataset.  
-Automated feature extraction using the Apify API.  
-**Tech:** Python · Scikit-learn · API scraping
-
-#### 🖥️ **Detectra – Real-Time Screen Monitoring**
-YOLO-based screen detector integrated with an LLM for real-time activity interpretation and alerting.  
-**Tech:** YOLO · Python · LLM Integration
-
-#### 🏠 **Accident Prediction in Home Insurance**
-Predicted insurance accident outcomes using correlated missing-value imputation and imbalance handling.  
-**Tech:** Python · Scikit-learn
-
-#### 📁 **Document Management Web App**
-Full-stack application with secure role-based access and document search/upload/download.  
-**Tech:** Angular · Spring Boot
+### 🧠 Tech Palette
+| 🤖 **AI & Data** | 🌐 **Web Dev** | 🎨 **Design & Tools** |
+| :--------------: | :------------: | :--------------------: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="32"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32"/> |
 
 ---
 
-### 🎓 Education
+### 🌷 Featured Projects
 
-- **Engineering Cycle — Software & Data Engineering**  
-  Faculty of Sciences of Bizerte (2023–2026)
+💫 **Crowd Abnormality Detection**  
+Developed multiple CNN models (96% accuracy) and combined them using majority voting to detect abnormal events in surveillance videos.  
+`Python · TensorFlow · OpenCV`
 
-- **Integrated Preparatory Cycle — MPC**  
-  Faculty of Sciences of Bizerte (2021–2023)
+🧠 **Bot Detection on Instagram**  
+Built ML models trained on the InstaFake dataset to classify accounts as real, fake, or automated.  
+Used Apify API for automated feature extraction.  
+`Python · Scikit-learn · APIs`
+
+🔐 **Smart Safe (IoT + YOLO)**  
+ESP32-powered safe that detects motion, captures intruder faces, and sends instant alerts.  
+`ESP32 · Python · YOLOv5`
+
+🖥️ **Detectra – Real-Time Screen Monitoring**  
+YOLO-based desktop monitoring tool linked with an LLM for real-time activity understanding.  
+`Python · YOLO · LLM`
+
+📚 **Document Management Web App**  
+Angular + Spring Boot application for secure document storage with search and role-based access.  
+`Angular · Spring Boot`
+
+🏠 **Accident Prediction in Home Insurance**  
+Handled imbalanced data and intelligent missing-value imputation to predict insurance outcomes.  
+`Python · Scikit-learn`
 
 ---
 
-### 🌍 Languages
-- **Arabic** (native)  
-- **French** (fluent)  
-- **English** (fluent)
+### 💖 My Design Philosophy
+
+> “Intelligent systems should be **precise**, **useful**, and **human-aware**.”
+
+I like building solutions that combine **technical depth** with **clean, thoughtful design**.
 
 ---
 
